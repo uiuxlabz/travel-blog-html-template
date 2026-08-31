@@ -2,6 +2,10 @@
 
 A premium, standalone travel journal template with an editorial magazine aesthetic — cream-paper canvas, terracotta and olive accents, and Epilogue headlines. Built entirely with HTML5, CSS3, and vanilla JavaScript: no frameworks, no build step, no dependencies. Five fully linked pages, scroll-reveal animations, a crossfading journey band, a working contact form, and a responsive layout that adapts from wide desktop to a burger-navigated mobile view.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
